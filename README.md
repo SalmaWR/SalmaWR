@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/5fbd1be4ad59290ec7b164db/1611845316105-PM8MZGNMBWQ5DDIAEX7N/paintgif2.gif?format=1500w"  />
+<img align="right" height="300" src="https://images.squarespace-cdn.com/content/v1/5fbd1be4ad59290ec7b164db/1611845316105-PM8MZGNMBWQ5DDIAEX7N/paintgif2.gif?format=1500w"  />
 <h2 align="left">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
